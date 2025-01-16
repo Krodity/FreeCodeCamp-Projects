@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8" />
+    <link rel="stylesheet" href="styles.css">
+    <title>Survery Test</title>
+</head>
+<body>
+  <div class="tittle-div">
+    <h1 id="title">Survey Test</h1>
+      </div>
+    <p class="p1" id="description">Test Description</p>
+    <form  id="survey-form">
+
+<div class="inputs">
+
+
+
+<!-- Name -->
+  <div class="name"> 
+    <label id="name-label"  for="name" >
+            Name: </div>
+    <div>
+    <input class="nameinp" id="name" placeholder="John Hancock" required>
+      </div>
+        </label>            
+              
+ <!-- Email -->      
+      <div class="email">
+        <label id="email-label" for="email">Email:
+          </div>
+          <div>
+          <input class="mailinp" type="email" id="email" placeholder="Email" required> </div> </label>
+
+        
+<!-- Phone Number (Number) -->
+<div class="age">
+  <label class="number" id="number-label" for="number">Age: </div>
+  <input class="numinp" id="number" type="number" min="1" max="120" required placeholder="age"></label>
+      
+
+
+      <hr class="hr">
+<!--Dropdown-->
+ <div>  
+   
+  <select id="dropdown" class="dropdown">
+    <option></option>
+      <option>White</option>
+        <option>Hispanic</option>
+          <option>Other</option>
+
+      </select>
+   
+            </div>
+
+
+
+<!--Checkboxes-->
+<label class="checkbox-label"> What would you like to learn?
+
+
+
+<div class="class=checkbox"> <input type="checkbox" name="checkbox" value="checkybox" class="checkbox1" unchecked> HTML </input>
+</div>
+
+<div>
+<input value="checkybox" type="checkbox" name="checkbox" class="checkbox1" unchecked> Java</input>
+</div>
+
+<div>
+<input value="checkybox" type="checkbox" name="checkbox" class="checkbox1" unchecked> Ruby</input>
+</div>
+
+<div>
+<input value="checkybox" type="checkbox" name="checkbox" class="checkbox1" unchecked> C++</input>
+</div>
+
+<div>
+<input value="checkybox" type="checkbox" name="checkbox" class="checkbox1" unchecked> C#</input>
+</div>
+
+<div>
+<input value="checkybox" type="checkbox" name="checkbox" class="checkbox1" unchecked> Swift</input>
+</div>
+
+<div>
+<input value="checkybox" type="checkbox" name="checkbox" class="checkbox1" unchecked> Kotlin</input>
+</div>
+
+</label>
+
+<hr class="hr">
+
+<!--RADIO BUTTONS-->
+
+<form>
+
+  <div class="radio">
+
+<input name="radio" type="radio" class="radio1" value="radio1" checked> Male </input>
+
+
+<input name="radio" type="radio" class="radio2" value="radio2" unchecked> Female </input>
+
+</div>
+
+
+</form>
+
+<!--TEXT AREA-->
+<div>
+<textarea name="textarea" class="textarea" placeholder="input thoughts here.">
+
+    </textarea>
+</div>
+
+    <input id="submit" class="submit" type="submit">
+
+
+
+    </div>
+    </form>
+</body>
+</html>

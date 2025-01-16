@@ -1,0 +1,143 @@
+body {
+    background-image: url("https://wallpapers.com/images/hd/black-pattern-background-pms9jt26fnsex3j8.jpg");
+     
+     display: center;
+     margin: 0 auto;
+     text-align: center;
+   }
+   
+   
+   h1 {
+     color: rgba(0, 0, 0, 80%);
+     font-size: 60px;
+     text-align: center;
+     margin-top: 15px;
+     margin-bottom: 15px;
+     margin-left: 15px;
+     margin-right: 15px;
+   }
+   
+   .p1 {
+     color: rgba(0,0,0,0);
+   
+   }
+   
+   .name, .email, .age {
+   
+   font-size: 30px;
+   padding: 10px 0px;
+   color: rgba(255,255,255,90%);
+   
+   }
+   
+   .nameinp, .mailinp, .numinp, .dropdown {
+     background-color: rgba(0, 0, 0, 80%);
+     border-style: none;
+     min-height: 30px;
+     max-width: 250px;
+     font-size: 15px;
+     color: aqua;
+     
+   }
+   
+   .radio {
+   
+   margin: 15px 0;
+   font-size:15px;
+   color: rgba(255,255,255,90%);
+   }
+   
+   .checkbox1 {
+   
+   accent-color: rgba(0,0,0,0%);
+   border-style: none;
+   color: black;
+   font-size: 20px;
+   
+   }
+   
+   
+   
+   
+   .textarea {
+   
+    background-color: rgba(0, 0, 0, 80%);
+     border-style: none;
+     min-height: 45px;
+     max-width: 250px;
+     min-width: 25%;
+     font-size: 15px;
+     color: aqua;
+     
+   
+   
+   }
+   
+   .hr {
+   
+     padding: 10px;
+     border: none;
+   
+   }
+   
+   .checkbox-label {
+   
+   font-size: 30px;
+   color: rgba(255,255,255,90%);
+   
+   }
+   
+   .hr1 {
+   
+    padding-top: -10px;
+    border: none;
+   
+   }
+   
+   .submit {
+   
+   background-color: rgba(0, 0, 0, 80%);
+     border-style: none;
+     min-height: 30px;
+     max-width: 250px;
+     font-size: 15px;
+     color: aqua;
+   
+   }
+   
+   
+   .tittle-div {
+     border-style: solid;
+     border-radius: 15px;
+     margin-bottom: 15px;
+     margin-left: 5%;
+     margin-right: 5%;
+     margin-top: 2%;
+     display: block;
+     background-color: rgba(31, 163, 18, 90%);
+     
+   
+   }
+   
+   .dropbox {
+     min-width: 25px;
+   }
+   
+   
+   .dropdown {
+   
+   margin-bottom: 15px;
+   }
+   
+   
+   
+   .inputs {
+   
+   border-style: solid;
+   max-width: auto;
+   margin: 0 20%;
+   padding-bottom: 15px;
+   background-color: rgba(15,15,60,65%);
+   
+   
+   }
