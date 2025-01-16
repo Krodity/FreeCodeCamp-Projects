@@ -16,11 +16,9 @@ This file contains any JavaScript code used in the survey form. It can be used t
 ### README.md
 This file provides an overview of the project, including the purpose of the survey form, the files included in the project, and any additional information or instructions for users or developers.
 
-## How to Use
 
-1. Open `index.html` in a web browser to view the survey form.
-2. Modify `styles.css` to change the appearance of the form.
-3. Add or update JavaScript code in `script.js` to enhance the form's functionality.
+![alt text](<Screenshot 2025-01-16 010829.png>)
+
 
 ## Project Requirements
 
