@@ -6,7 +6,7 @@ Introduction
 This repository serves as a showcase for the personal projects I've completed during my journey learning to code through FreeCodeCamp. As an individual learner, I'm excited to share these projects that represent my growth and progress in the field of computer science. 
 About Me  
 
-My name is Korone, and I'm a self-taught coder with a passion for creating innovative solutions using coding skills. Through FreeCodeCamp's comprehensive curriculum, I've developed a solid foundation in web development, including HTML, CSS, JavaScript, and more. This repository highlights the projects I've completed as part of my learning journey. 
+My name is Krodity, and I'm a self-taught coder with a passion for creating innovative solutions using coding skills. Through FreeCodeCamp's comprehensive curriculum, I've developed a solid foundation in web development, including HTML, CSS, JavaScript, and more. This repository highlights the projects I've completed as part of my learning journey. 
 Project Overview  
 
 This collection includes a range of personal projects that demonstrate my understanding of various coding concepts. From simple web applications to more complex system integrations, each project showcases a unique aspect of my learning experience with FreeCodeCamp. 
