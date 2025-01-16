@@ -32,3 +32,6 @@ Getting Started
 Feel free to explore the individual project directories within this repository. Each directory includes a detailed README file outlining the project's purpose, functionality, and any relevant technical details. 
 
 I hope you find my personal projects collection informative and inspiring. Thank you for taking the time to visit! 
+
+
+                                                                                                                        --Krodity
