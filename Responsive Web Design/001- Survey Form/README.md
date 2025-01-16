@@ -17,7 +17,7 @@ This file contains any JavaScript code used in the survey form. It can be used t
 This file provides an overview of the project, including the purpose of the survey form, the files included in the project, and any additional information or instructions for users or developers.
 
 
-![alt text](<Krodity/FreeCodeCamp-Projects/Misc/Screenshots/Screenshot 2025-01-16 010829.png>)
+![alt text](<../../Misc/Screenshots/Screenshot 2025-01-16 010829.png>)
 
 
 ## Project Requirements
