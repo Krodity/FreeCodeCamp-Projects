@@ -4,17 +4,27 @@ img {
 
 #image {
     max-width: 100%;
-}
-
-#image {
     height: auto;
-}
-
-#image {
     margin-left: auto;
     margin-right: auto;
 }
 
+nav {
+    background-color: blue;
+    padding: 1em;
+}
 
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
 
+nav ul li {
+    display: inline;
+    margin-right: 1em;
+}
 
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
