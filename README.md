@@ -43,4 +43,3 @@
     - Stock Price Checker
     - Anonymous Message Board
 
-Each project showcases different skills and technologies I have learned through FreeCodeCamp, ranging from HTML and CSS to JavaScript, React, D3.js, Node.js, and more.
